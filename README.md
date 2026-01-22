@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Thanu20o/Thanu20o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Thanusha 👋  
 
-Here are some ideas to get you started:
+🎓 Cybersecurity student focused on understanding security concepts and system behavior  
+🕵️‍♀️ Exploring ethical hacking through hands-on learning and practice  
+📚 Learning how technologies work and how they can be secured  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔑 Key Areas
+- Cybersecurity fundamentals and security concepts  
+- Programming: Python, C++  
+- Databases: Basic database concepts for security use cases  
+- Practical learning through labs, projects, and challenges  
+
+🚀 Currently Exploring
+- TryHackMe  
+- PicoCTF  
+- port swigger 
+- hack the box
+
+### 📂 projects
+- 🖼️ Image Steganography  
+- ⌨️ Keylogger  
+- 🔐 Image Encrypter  
+- 🔑 Password Strength Checker  
+- 🌐 DNS Tunneling
+
+linkedin profile: https://www.linkedin.com/in/thanusha-penukonda-42b327311/
