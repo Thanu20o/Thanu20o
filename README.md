@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi, I'm Thanusha 👋  <br><br>🎓 Cybersecurity student focused on understanding security concepts and system behavior  <br>🕵️‍♀️ Exploring ethical hacking through hands-on learning and practice  <br>📚 Learning how technologies work and how they can be secured  <br><br>🔑 Key Areas<br>- Cybersecurity fundamentals and security concepts  <br>- Programming: Python, C++  <br>- Databases: Basic database concepts for security use cases  <br>- Practical learning through labs, projects, and challenges  <br><br>🚀 Currently Exploring<br>- TryHackMe  <br>- PicoCTF  <br>- port swigger <br>- hack the box<br><br>
-linkedin profile: https://www.linkedin.com/in/thanusha-penukonda-42b327311/<br>email: thanusha.p2006@gmail.comm<br>
+
 
 
 ## 🌐 Socials:
